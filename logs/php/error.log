@@ -1,0 +1,64 @@
+[26-Jul-2023 20:14:02 UTC] PHP Parse error:  syntax error, unexpected identifier "get_template_directory_uri", expecting ":" in C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\header.php on line 14
+[26-Jul-2023 21:11:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_meta(), 0 passed in C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php on line 22 and at least 1 expected in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\post.php:2491
+Stack trace:
+#0 C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php(22): get_post_meta()
+#1 C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\san9s\\...')
+#2 C:\Users\san9s\Local Sites\realestate\app\public\wp-blog-header.php(19): require_once('C:\\Users\\san9s\\...')
+#3 C:\Users\san9s\Local Sites\realestate\app\public\index.php(17): require('C:\\Users\\san9s\\...')
+#4 {main}
+  thrown in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\post.php on line 2491
+[26-Jul-2023 21:12:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_meta(), 0 passed in C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php on line 22 and at least 1 expected in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\post.php:2491
+Stack trace:
+#0 C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php(22): get_post_meta()
+#1 C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\san9s\\...')
+#2 C:\Users\san9s\Local Sites\realestate\app\public\wp-blog-header.php(19): require_once('C:\\Users\\san9s\\...')
+#3 C:\Users\san9s\Local Sites\realestate\app\public\index.php(17): require('C:\\Users\\san9s\\...')
+#4 {main}
+  thrown in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\post.php on line 2491
+[26-Jul-2023 21:12:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_meta(), 0 passed in C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php on line 22 and at least 1 expected in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\post.php:2491
+Stack trace:
+#0 C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php(22): get_post_meta()
+#1 C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\san9s\\...')
+#2 C:\Users\san9s\Local Sites\realestate\app\public\wp-blog-header.php(19): require_once('C:\\Users\\san9s\\...')
+#3 C:\Users\san9s\Local Sites\realestate\app\public\index.php(17): require('C:\\Users\\san9s\\...')
+#4 {main}
+  thrown in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\post.php on line 2491
+[26-Jul-2023 21:14:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_meta(), 0 passed in C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php on line 22 and at least 1 expected in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\post.php:2491
+Stack trace:
+#0 C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php(22): get_post_meta()
+#1 C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\san9s\\...')
+#2 C:\Users\san9s\Local Sites\realestate\app\public\wp-blog-header.php(19): require_once('C:\\Users\\san9s\\...')
+#3 C:\Users\san9s\Local Sites\realestate\app\public\index.php(17): require('C:\\Users\\san9s\\...')
+#4 {main}
+  thrown in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\post.php on line 2491
+[26-Jul-2023 21:14:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_meta(), 0 passed in C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php on line 22 and at least 1 expected in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\post.php:2491
+Stack trace:
+#0 C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php(22): get_post_meta()
+#1 C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\san9s\\...')
+#2 C:\Users\san9s\Local Sites\realestate\app\public\wp-blog-header.php(19): require_once('C:\\Users\\san9s\\...')
+#3 C:\Users\san9s\Local Sites\realestate\app\public\index.php(17): require('C:\\Users\\san9s\\...')
+#4 {main}
+  thrown in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\post.php on line 2491
+[26-Jul-2023 21:15:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_attachment_image(), 0 passed in C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php on line 22 and at least 1 expected in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\media.php:1031
+Stack trace:
+#0 C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php(22): wp_get_attachment_image()
+#1 C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\san9s\\...')
+#2 C:\Users\san9s\Local Sites\realestate\app\public\wp-blog-header.php(19): require_once('C:\\Users\\san9s\\...')
+#3 C:\Users\san9s\Local Sites\realestate\app\public\index.php(17): require('C:\\Users\\san9s\\...')
+#4 {main}
+  thrown in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\media.php on line 1031
+[26-Jul-2023 21:15:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_attachment_image(), 0 passed in C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php on line 22 and at least 1 expected in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\media.php:1031
+Stack trace:
+#0 C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php(22): wp_get_attachment_image()
+#1 C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\san9s\\...')
+#2 C:\Users\san9s\Local Sites\realestate\app\public\wp-blog-header.php(19): require_once('C:\\Users\\san9s\\...')
+#3 C:\Users\san9s\Local Sites\realestate\app\public\index.php(17): require('C:\\Users\\san9s\\...')
+#4 {main}
+  thrown in C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\media.php on line 1031
+[26-Jul-2023 21:31:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_autor() in C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php:25
+Stack trace:
+#0 C:\Users\san9s\Local Sites\realestate\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\san9s\Local Sites\realestate\app\public\wp-blog-header.php(19): require_once('C:\\Users\\san9s\\...')
+#2 C:\Users\san9s\Local Sites\realestate\app\public\index.php(17): require('C:\\Users\\san9s\\...')
+#3 {main}
+  thrown in C:\Users\san9s\Local Sites\realestate\app\public\wp-content\themes\realestate\templates\template_home.php on line 25
